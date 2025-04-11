@@ -1,1 +1,1 @@
-# recipes
+# This project is day 1 of me learning HTML and CSS. Trying to understand that syntax and getting a greater understanding of development.

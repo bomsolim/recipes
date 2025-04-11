@@ -1,0 +1,51 @@
+body {
+    background-color: #81A094;
+}
+.header-title {
+    text-align: center;
+    font-size: 50px;
+    font-family:cursive;
+}
+
+.nav-links {
+    padding: 10px;
+    text-align: center;
+}
+.nav-foods {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    padding: 0;
+    margin: 0;
+}
+
+.food-link {
+    padding: 5px;
+}
+
+.food-link a{
+    color: white;
+    text-decoration: none;
+}
+
+.food-images{
+    margin-left: -50px;
+}
+
+.recipe-container {
+    background-color: #fff8dc;
+    width: 28%;
+    margin: 40px auto;
+    padding: 20px;
+    border: 2px solid;
+    box-shadow: 5px 5px 15px;
+}
+
+.recipe-container img {
+    position: relative;
+    margin: 15px;
+}
+
+.recipe-container p{
+    text-align: center;
+}
